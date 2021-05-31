@@ -1,0 +1,13 @@
+name: Covid-HealthCare
+title: Covid-HealthCare
+username:
+account: c5i-covid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2258980
+bundleId: 3134800
+url: https://c5i-covid.shinyapps.io/Covid-HealthCare/
+when: 1589253991.68924
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Intel_logo.jpeg|www/Intel_logo.png

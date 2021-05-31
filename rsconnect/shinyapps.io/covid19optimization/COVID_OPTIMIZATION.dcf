@@ -1,0 +1,13 @@
+name: COVID_OPTIMIZATION
+title: COVID_OPTIMIZATION
+username:
+account: covid19optimization
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2491804
+bundleId: 3485600
+url: https://covid19optimization.shinyapps.io/COVID_OPTIMIZATION/
+when: 1596781432.10517
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Coefficients.csv|coefficients_new.csv|trial.R

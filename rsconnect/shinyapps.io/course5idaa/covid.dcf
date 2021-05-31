@@ -1,0 +1,13 @@
+name: covid
+title: COVID_OPTIMIZATION
+username:
+account: course5idaa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2195809
+bundleId: 3305068
+url: https://course5idaa.shinyapps.io/Covid/
+when: 1592890365.10383
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ~$Coefficients.xlsx

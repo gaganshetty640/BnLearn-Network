@@ -1,0 +1,13 @@
+name: Health
+title: Health
+username:
+account: srishticourse5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2283977
+bundleId: 3134854
+url: https://srishticourse5.shinyapps.io/Health/
+when: 1589255445.52704
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Intel_logo.jpeg|www/Intel_logo.png|backup

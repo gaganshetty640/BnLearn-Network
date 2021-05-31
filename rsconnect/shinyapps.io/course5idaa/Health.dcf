@@ -1,0 +1,13 @@
+name: Health
+title: Health
+username:
+account: course5idaa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2285186
+bundleId: 3150832
+url: https://course5idaa.shinyapps.io/Health/
+when: 1589531100.44379
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data2.zip|data2_v1.RData|data3_v1.RData|data3/data2.RData|data3/data3.RData|data1|data2
